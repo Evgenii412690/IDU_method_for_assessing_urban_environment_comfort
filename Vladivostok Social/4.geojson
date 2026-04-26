@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 1185154261,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14698288.3,
+                        5352270.77
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "00fd741d-a365-11f0-950b-47ec6acfd7d6",
+                "interactionId": 1158942063,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "bld_area": "0",
+                    "capacity": "100",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "00fd741d-a365-11f0-950b-47ec6acfd7d6",
+                    "mt_status": "2",
+                    "name": "Центр реабилитации и абилитации для лиц с ограниченными возможностями здоровья",
+                    "number": "СТП ПК",
+                    "oktmo": "05701000001",
+                    "person_pd": "1",
+                    "person_ph": "1",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Социально-оздоровительный центр",
+                    "ssah_stype": "0",
+                    "st_stype": "Дом-интернат милосердия для престарелых и инвалидов",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:14.94333",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:15.301799",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185156027,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14698256.2,
+                        5352227.75
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "16a81b89-1191-11ee-88cd-bd56f82c1bae",
+                "interactionId": 1158943829,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "16a81b89-1191-11ee-88cd-bd56f82c1bae",
+                    "mt_status": "2",
+                    "name": "Центр реабилитации и абилитации для лиц с ограниченными возможностями здоровья",
+                    "note": "Период реализации изменен согласно 2023-05-18 Минтруда и соцполитики ПК",
+                    "reg_status": "Региональное значение",
+                    "source": "п. 5.5 СТП ПК. ГП ПК \"Социальная поддержка населения Приморского края на 2020 - 2027 годы\"",
+                    "st_stype": "Дом-интернат милосердия для престарелых и инвалидов",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:20.65168",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:21.570476",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160703,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14705684.71,
+                        5351102.52
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4a592c99-4ccd-11f0-b18a-d7780febc195",
+                "interactionId": 1158948505,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "bld_area": "0",
+                    "capacity": "64",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "0",
+                    "function": "0",
+                    "globalid": "4a592c99-4ccd-11f0-b18a-d7780febc195",
+                    "mt_status": "1",
+                    "name": "КГКУ \"Центр содействия семейному устройству № 2 г. Владивостока\"",
+                    "number": "0",
+                    "oktmo": "05701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Центр помощи детям, оставшимся без попечения родителей",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:36.499102",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:37.43319",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        }
+    ]
+}

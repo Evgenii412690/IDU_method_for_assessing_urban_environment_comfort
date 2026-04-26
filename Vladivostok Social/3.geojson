@@ -1,0 +1,379 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 1185156032,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14688993.74,
+                        5344613.12
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "16aa8c8b-1191-11ee-88cd-536fe4491237",
+                "interactionId": 1158943834,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "16aa8c8b-1191-11ee-88cd-536fe4491237",
+                    "mt_status": "2",
+                    "name": "Пансионат для пожилых людей",
+                    "note": "Период реализации изменен согласно 2023-05-18 Минтруда и соцполитики ПК",
+                    "reg_status": "Региональное значение",
+                    "source": "п. 5.1 СТП ПК",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:20.6686",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:21.646114",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160683,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14694475.52,
+                        5347243.82
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4a3ba018-c942-11ee-a852-dd13e9afe68d",
+                "interactionId": 1158948485,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "globalid": "4a3ba018-c942-11ee-a852-dd13e9afe68d",
+                    "mt_status": "1",
+                    "name": "КГБУ СО \"Социально-реабилитационный центр для несовершеннолетних \"Парус надежды\"",
+                    "oktmo": "05701000001",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Социально-реабилитационный центр для несовершеннолетних",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:36.436298",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:37.638261",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160734,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14688904.94,
+                        5344537.63
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4a44048a-c942-11ee-a852-a7289dc71e93",
+                "interactionId": 1158948536,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "capacity": "520",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "globalid": "4a44048a-c942-11ee-a852-a7289dc71e93",
+                    "mt_status": "1",
+                    "name": "КГАУ СО \"Седанкинский дом-интернат для престарелых и инвалидов\"",
+                    "oktmo": "05701000001",
+                    "reg_status": "Региональное значение",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:36.600497",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:37.443416",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185163330,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14694488.15,
+                        5347226.41
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "8d10fae5-a365-11f0-950b-3d5937a6345d",
+                "interactionId": 1158951132,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "bld_area": "9500",
+                    "capacity": "95",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "0",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "8d10fae5-a365-11f0-950b-3d5937a6345d",
+                    "mt_status": "1",
+                    "name": "КГБУ СО \"Социально-реабилитационный центр для несовершеннолетних \"Парус надежды\"",
+                    "number": "0",
+                    "oktmo": "05701000001",
+                    "person_pd": "1",
+                    "person_ph": "1",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Социально-реабилитационный центр для несовершеннолетних",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "1615"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:45.102909",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:45.374814",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185163334,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14688937,
+                        5344580.6
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "8d120c56-a365-11f0-950b-655920d39d74",
+                "interactionId": 1158951136,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "bld_area": "36400",
+                    "capacity": "520",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "0",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "8d120c56-a365-11f0-950b-655920d39d74",
+                    "mt_status": "1",
+                    "name": "КГАУ СО \"Седакинский дом-интернат для престарелых и инвалидов\"",
+                    "number": "0",
+                    "oktmo": "05701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "3120"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:45.108064",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:45.382673",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185167472,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14693858.09,
+                        5342223.94
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "f8cad7fd-039c-11f0-b27c-3d1d080ddf35",
+                "interactionId": 1158955274,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "bld_area": "0",
+                    "capacity": "999",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "0",
+                    "globalid": "f8cad7fd-039c-11f0-b27c-3d1d080ddf35",
+                    "mt_status": "1",
+                    "name": "Владивостокский филиал КГАУ СО \"Приморский центр социального обслуживания населения\"",
+                    "number": "0",
+                    "oktmo": "05701000001",
+                    "person_pd": "999",
+                    "person_ph": "999",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:04:00.93533",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:04:01.186481",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185167501,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14695958.26,
+                        5346870.12
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 25,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "f9148b4c-039c-11f0-b27c-514a295b35a4",
+                "interactionId": 1158955303,
+                "label": "",
+                "options": {
+                    "address": "Владивостокский городской округ, г. Владивосток",
+                    "bld_area": "8320",
+                    "capacity": "64",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Приморского края",
+                    "event_time": "0",
+                    "globalid": "f9148b4c-039c-11f0-b27c-514a295b35a4",
+                    "mt_status": "1",
+                    "name": "КГКУ \"Центр содействия семейному устройству № 2 г. Владивостока\"",
+                    "number": "0",
+                    "oktmo": "05701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Центр помощи детям, оставшимся без попечения родителей",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:04:01.033783",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:04:01.550896",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        }
+    ]
+}
