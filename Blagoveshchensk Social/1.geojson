@@ -1,0 +1,1577 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 1185159046,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14197932,
+                        6497684.15
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "3138b8a5-61e1-11ed-a21b-9f3c716c3374",
+                "interactionId": 1158946848,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "3138b8a5-61e1-11ed-a21b-9f3c716c3374",
+                    "mt_status": "1",
+                    "name": "ГБУ АО \"Благовещенский социально-реабилитационный центр для несовершеннолетних \"Мечта\"",
+                    "reg_status": "Региональное значение",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:31.278197",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:32.411756",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185159047,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14198113.5,
+                        6494893.5
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "313a1836-61e1-11ed-a21b-37e1fd176aa3",
+                "interactionId": 1158946849,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "313a1836-61e1-11ed-a21b-37e1fd176aa3",
+                    "mt_status": "1",
+                    "name": "ГАУ АО \"Благовещенский комплексный центр социального обслуживания населения \"Доброта\"",
+                    "reg_status": "Региональное значение",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:31.286521",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:31.404973",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185159049,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14192692.19,
+                        6492182.55
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "31375914-61e1-11ed-a21b-7f2e528175a6",
+                "interactionId": 1158946851,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "31375914-61e1-11ed-a21b-7f2e528175a6",
+                    "mt_status": "1",
+                    "name": "ГБУ АО \"Благовещенский специальный дом для одиноких престарелых \"Ветеран\"",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Специальный дом для одиноких престарелых",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:31.291666",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:31.601023",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160280,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14197918.9372335,
+                        6497682.63464699
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "41f0a712-dada-11ee-be41-63d524078995",
+                "interactionId": 1158948082,
+                "label": "",
+                "options": {
+                    "address": "ул. 50-летия Октября, 152",
+                    "bld_area": "0",
+                    "capacity": "0",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "41f0a712-dada-11ee-be41-63d524078995",
+                    "mt_status": "1",
+                    "name": "ГБУ Амурской области «Благовещенский социально-реабилитационный центр для несовершеннолетних «Мечта»",
+                    "oktmo": "10701000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "0",
+                    "sp_stype": "Социально-реабилитационный центр для несовершеннолетних",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:35.102136",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:36.112014",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160282,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14192826.3644132,
+                        6492191.17514802
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "41f206a3-dada-11ee-be41-3f35884f35fd",
+                "interactionId": 1158948084,
+                "label": "",
+                "options": {
+                    "address": "ул. Зейская, 319",
+                    "bld_area": "0",
+                    "capacity": "0",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "41f206a3-dada-11ee-be41-3f35884f35fd",
+                    "mt_status": "1",
+                    "name": "ГБУ Амурской области «Благовещенский специальный дом для одиноких престарелых «Ветеран»",
+                    "oktmo": "10701000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "0",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Специальный дом для одиноких престарелых",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:35.108685",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:36.280824",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160283,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14195721.3034685,
+                        6494294.3120237
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "41ef2071-dada-11ee-be41-a1f6f96ec6a8",
+                "interactionId": 1158948085,
+                "label": "",
+                "options": {
+                    "address": "ул. Ломоносова, 261",
+                    "bld_area": "0",
+                    "capacity": "0",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "41ef2071-dada-11ee-be41-a1f6f96ec6a8",
+                    "mt_status": "1",
+                    "name": "ГАУ Амурской области «Благовещенский комплексный центр социального обслуживания населения «Доброта»",
+                    "oktmo": "10701000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "0",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:35.111742",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:35.188026",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160284,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14199223.8599268,
+                        6491897.46535073
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "41f45095-dada-11ee-be41-d5eb4b7995ea",
+                "interactionId": 1158948086,
+                "label": "",
+                "options": {
+                    "address": "ул. Политехническая, 82/2",
+                    "bld_area": "0",
+                    "capacity": "0",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "41f45095-dada-11ee-be41-d5eb4b7995ea",
+                    "mt_status": "1",
+                    "name": "ГАУ Амурской области «Благовещенский комплексный центр социального обслуживания населения «Доброта»",
+                    "oktmo": "10701000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:35.11522",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:36.086509",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160290,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14198115.2647402,
+                        6494899.064063
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "41f69a87-dada-11ee-be41-2bfd925960a7",
+                "interactionId": 1158948092,
+                "label": "",
+                "options": {
+                    "address": "ул. Рабочая, 95",
+                    "bld_area": "0",
+                    "capacity": "0",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "41f69a87-dada-11ee-be41-2bfd925960a7",
+                    "mt_status": "1",
+                    "name": "ГАУ Амурской области «Благовещенский комплексный центр социального обслуживания населения «Доброта»",
+                    "oktmo": "10701000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:35.123744",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:36.455637",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160300,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14200092.0851633,
+                        6491557.76947179
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "41fd032d-dada-11ee-be41-bfe110cbcd23",
+                "interactionId": 1158948102,
+                "label": "",
+                "options": {
+                    "address": "г. Благовещенск, квартал 88",
+                    "bld_area": "0",
+                    "capacity": "30",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2040",
+                    "globalid": "41fd032d-dada-11ee-be41-bfe110cbcd23",
+                    "mt_status": "2",
+                    "name": "Кризисный центр помощи женщинам",
+                    "oktmo": "10701000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "СТП Амурской области",
+                    "sp_stype": "Кризисный центр помощи женщинам",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:35.145189",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:36.358117",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185161343,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14198143.295,
+                        6494947.0627
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4c20a691-849f-11f0-95bc-655e24d68d89",
+                "interactionId": 1158949145,
+                "label": "",
+                "options": {
+                    "address": "ул. Рабочая, 95",
+                    "capacity": "50",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "4c20a691-849f-11f0-95bc-655e24d68d89",
+                    "mt_status": "1",
+                    "name": "ГАУ Амурской области «Благовещенский комплексный центр социального обслуживания населения «Доброта»",
+                    "oktmo": "10701000",
+                    "person_pd": "50",
+                    "person_ph": "3",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:38.542305",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:38.793217",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185161354,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14199251.8892,
+                        6491945.4474
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4c22c973-849f-11f0-95bc-5561424ac171",
+                "interactionId": 1158949156,
+                "label": "",
+                "options": {
+                    "address": "ул. Политехническая, 82/2",
+                    "capacity": "50",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "4c22c973-849f-11f0-95bc-5561424ac171",
+                    "mt_status": "1",
+                    "name": "ГАУ Амурской области «Благовещенский комплексный центр социального обслуживания населения «Доброта»",
+                    "note": "реконструируемое здание",
+                    "oktmo": "10701000",
+                    "person_pd": "50",
+                    "person_ph": "3",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:38.553393",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:38.871304",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185161356,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14192854.3664,
+                        6492239.1425
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4c2adfc9-849f-11f0-95bc-239b53c35370",
+                "interactionId": 1158949157,
+                "label": "",
+                "options": {
+                    "address": "ул. Зейская, 319",
+                    "capacity": "10",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "4c2adfc9-849f-11f0-95bc-239b53c35370",
+                    "mt_status": "1",
+                    "name": "ГБУ Амурской области «Благовещенский специальный дом для одиноких престарелых «Ветеран»",
+                    "oktmo": "10701000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Специальный дом для одиноких престарелых",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:38.55745",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:38.937606",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185161358,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14197946.9546,
+                        6497730.6447
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4c2c666a-849f-11f0-95bc-a9c0c1ef025e",
+                "interactionId": 1158949160,
+                "label": "",
+                "options": {
+                    "address": "ул. 50-летия Октября, 152",
+                    "capacity": "50",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "4c2c666a-849f-11f0-95bc-a9c0c1ef025e",
+                    "mt_status": "1",
+                    "name": "ГБУ Амурской области «Благовещенский социально-реабилитационный центр для несовершеннолетних «Мечта»",
+                    "oktmo": "10701000",
+                    "person_pd": "50",
+                    "person_ph": "3",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Социально-реабилитационный центр для несовершеннолетних",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:38.569901",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:38.872902",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185161361,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14195749.3154,
+                        6494342.2868
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "4c2e894c-849f-11f0-95bc-f15d69af0254",
+                "interactionId": 1158949163,
+                "label": "",
+                "options": {
+                    "address": "ул. Ломоносова, 261",
+                    "capacity": "50",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "0",
+                    "globalid": "4c2e894c-849f-11f0-95bc-f15d69af0254",
+                    "mt_status": "1",
+                    "name": "ГАУ Амурской области «Благовещенский комплексный центр социального обслуживания населения «Доброта»",
+                    "oktmo": "10701000",
+                    "person_pd": "50",
+                    "person_ph": "3",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:38.578241",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:38.868563",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162129,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14199184.62,
+                        6494845.87
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "5d284dda-f633-11ec-902b-d17f6bfce4c6",
+                "interactionId": 1158949931,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "capacity": "253",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "5d284dda-f633-11ec-902b-d17f6bfce4c6",
+                    "mt_status": "1",
+                    "name": "ГАУСО \"Благовещенский дом-интернат\"",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:41.177663",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:41.331289",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162130,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14190503.17,
+                        6493895.53
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "5d2d08cc-f633-11ec-902b-8ddff01c9829",
+                "interactionId": 1158949932,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "capacity": "69",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "5d2d08cc-f633-11ec-902b-8ddff01c9829",
+                    "mt_status": "1",
+                    "name": "ГБУ АО \"Благовещенский специальный дом для одиноких престарелых \"Ветеран\"",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Специальный дом для одиноких престарелых",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:41.184598",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:41.359496",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162131,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14191371.32,
+                        6493895.53
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "5d2e685d-f633-11ec-902b-b1224e5671d3",
+                "interactionId": 1158949933,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "capacity": "73",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "5d2e685d-f633-11ec-902b-b1224e5671d3",
+                    "mt_status": "1",
+                    "name": "ГБУ АО \"Благовещенский специальный дом для одиноких престарелых \"Ветеран\"",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Специальный дом для одиноких престарелых",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:41.18982",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:41.5533",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162133,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14200052.77,
+                        6494845.87
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "5d2bd04b-f633-11ec-902b-6bfa631aff31",
+                "interactionId": 1158949935,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "5d2bd04b-f633-11ec-902b-6bfa631aff31",
+                    "mt_status": "1",
+                    "name": "ГАУ АО \"Благовещенский детский дом\"",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Детский дом-интернат для детей с физическими недостатками",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:41.194008",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:41.549275",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162135,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14193107.61,
+                        6493895.53
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "5d2fa0de-f633-11ec-902b-4d98e6f57ad4",
+                "interactionId": 1158949937,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "5d2fa0de-f633-11ec-902b-4d98e6f57ad4",
+                    "mt_status": "1",
+                    "name": "ГБУ АО \"Благовещенский социально-реабилитационный центр для несовершеннолетних \"Мечта\"",
+                    "reg_status": "Региональное значение",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:41.197274",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:41.517641",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162137,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14193975.75,
+                        6493895.53
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "5d33987f-f633-11ec-902b-fda0f7e2122b",
+                "interactionId": 1158949939,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "capacity": "32",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "globalid": "5d33987f-f633-11ec-902b-fda0f7e2122b",
+                    "mt_status": "1",
+                    "name": "ГАУ АО \" Благовещенский комплексный центр социального обслуживания населения \"Доброта\"",
+                    "reg_status": "Региональное значение",
+                    "status": "Существующий, реконструируемый, строящийся"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:41.200342",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:41.559739",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162489,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14193355.63,
+                        6492945.2
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6a44886c-61e3-11ed-a21b-dd53542f8a49",
+                "interactionId": 1158950292,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6a44886c-61e3-11ed-a21b-dd53542f8a49",
+                    "mt_status": "2",
+                    "name": "Психоневрологический интернат для взрослых",
+                    "number": "7.7",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Психоневрологический интернат",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.401304",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:42.834486",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162490,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14194471.84,
+                        6492945.2
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6a46361d-61e3-11ed-a21b-0b2487275360",
+                "interactionId": 1158950291,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6a46361d-61e3-11ed-a21b-0b2487275360",
+                    "mt_status": "2",
+                    "name": "Дом ночного пребывания",
+                    "number": "7.9",
+                    "reg_status": "Региональное значение",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.401094",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:42.817645",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162491,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14192197.46,
+                        6492944.79
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6a4301cb-61e3-11ed-a21b-dd6a7174f500",
+                "interactionId": 1158950293,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6a4301cb-61e3-11ed-a21b-dd6a7174f500",
+                    "mt_status": "2",
+                    "name": "Центр социальной (постинтернатной) адаптации выпускников организаций для детей-сирот и детей, оставшихся без попечения родителей",
+                    "number": "7.10",
+                    "reg_status": "Региональное значение",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.401817",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:42.683129",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162492,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14197820.39,
+                        6492945.2
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6a47bcbe-61e3-11ed-a21b-bb5653ae5edd",
+                "interactionId": 1158950294,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "1",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6a47bcbe-61e3-11ed-a21b-bb5653ae5edd",
+                    "mt_status": "2",
+                    "name": "Центр реабилитации детей с ограниченными возможностями",
+                    "number": "7.16",
+                    "reg_status": "Региональное значение",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.403039",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:42.838149",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162494,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14200052.77,
+                        6492945.2
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6a4b6640-61e3-11ed-a21b-9120002103ec",
+                "interactionId": 1158950297,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6a4b6640-61e3-11ed-a21b-9120002103ec",
+                    "mt_status": "2",
+                    "name": "Кризисный центр помощи женщинам",
+                    "number": "7.22",
+                    "reg_status": "Региональное значение",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.409109",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:42.785058",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162498,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14201033.36,
+                        6492957.28
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6a4cc5d1-61e3-11ed-a21b-07f0418cbac0",
+                "interactionId": 1158950300,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6a4cc5d1-61e3-11ed-a21b-07f0418cbac0",
+                    "mt_status": "2",
+                    "name": "Центр социальной адаптации для лиц без определенного места жительства и занятий",
+                    "number": "7.21",
+                    "reg_status": "Региональное значение",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.41255",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:42.810498",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162499,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14198936.6,
+                        6492945.2
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6a49435f-61e3-11ed-a21b-419a1b1279eb",
+                "interactionId": 1158950301,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6a49435f-61e3-11ed-a21b-419a1b1279eb",
+                    "mt_status": "2",
+                    "name": "Реабилитационный центр для граждан с ограниченными возможностями",
+                    "number": "7.20",
+                    "reg_status": "Региональное значение",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.412643",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:42.683804",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162530,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14192158.03,
+                        6492178.64
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "6ac50353-61e3-11ed-a21b-3b5e70ba913a",
+                "interactionId": 1158950332,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "1",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "6ac50353-61e3-11ed-a21b-3b5e70ba913a",
+                    "mt_status": "2",
+                    "name": "Дом социального обслуживания",
+                    "number": "7.2",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:42.521514",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:43.870379",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185162951,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14200120.1258,
+                        6491605.7343
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "80c416f8-50c1-11f0-b03c-ef923444421b",
+                "interactionId": 1158950753,
+                "label": "",
+                "options": {
+                    "address": "г. Благовещенск, квартал 88",
+                    "capacity": "10",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2040",
+                    "globalid": "80c416f8-50c1-11f0-b03c-ef923444421b",
+                    "mt_status": "2",
+                    "name": "Кризисный центр помощи женщинам",
+                    "note": "Поменяли",
+                    "number": "7.19",
+                    "oktmo": "10701000",
+                    "person_pd": "15",
+                    "person_ph": "5",
+                    "reg_status": "Региональное значение",
+                    "source": "СТП Амурской области",
+                    "sp_stype": "Кризисный центр помощи женщинам",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:43.938719",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:44.10472",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185164920,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14191123.25,
+                        6492945.2
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b75da5fc-f635-11ec-902b-7fe0e46323ac",
+                "interactionId": 1158952722,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "2",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "b75da5fc-f635-11ec-902b-7fe0e46323ac",
+                    "mt_status": "2",
+                    "name": "Жилой корпус ГАУСО \"Благовещенский дом-интернат\"",
+                    "number": "7.8",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Планируемый к размещению"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:51.12828",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:52.562855",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185164951,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        14191116,
+                        6492197.64
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 28,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b7c9fbaa-f635-11ec-902b-116e9c331f15",
+                "interactionId": 1158952753,
+                "label": "",
+                "options": {
+                    "address": "город Благовещенск, г. Благовещенск",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Амурской области",
+                    "event_time": "1",
+                    "function": "Социальная поддержка и социальное обслуживание граждан",
+                    "globalid": "b7c9fbaa-f635-11ec-902b-116e9c331f15",
+                    "mt_status": "3",
+                    "name": "ГАУСО \"Благовещенский дом-интернат\" (пристройка 3-этажная к зданию)",
+                    "number": "7.3",
+                    "reg_status": "Региональное значение",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Планируемый к реконструкции"
+                },
+                "subcategory": 3,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:51.229238",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:52.568657",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        }
+    ]
+}
