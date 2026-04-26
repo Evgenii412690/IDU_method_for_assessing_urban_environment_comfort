@@ -1,0 +1,232 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 1185156234,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15037601.6247431,
+                        6164208.18163602
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "18f52852-5975-11ef-88a7-d7859bd90ff1",
+                "interactionId": 1158944036,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск, пер. Высотный, 1",
+                    "bld_area": "4033.5",
+                    "capacity": "265",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "стационарное учреждение",
+                    "globalid": "18f52852-5975-11ef-88a7-d7859bd90ff1",
+                    "mt_status": "1",
+                    "name": "КГБУ «Хабаровский психоневрологический интернат»",
+                    "note": "построен в 1986",
+                    "number": "2",
+                    "oktmo": "8701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Психоневрологический интернат",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:21.268661",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:21.60363",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185164825,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15037627.873879,
+                        6164253.56659242
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b31daff2-3a05-11f0-8b31-7fbf3d3df54b",
+                "interactionId": 1158952627,
+                "label": "",
+                "options": {
+                    "address": "пер. Высотный, 1",
+                    "bld_area": "0",
+                    "capacity": "315",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "Социальная защита",
+                    "globalid": "b31daff2-3a05-11f0-8b31-7fbf3d3df54b",
+                    "mt_status": "1",
+                    "name": "КГБУ \"Хабаровский психоневрологический интернат\"",
+                    "number": "-",
+                    "oktmo": "8701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Психоневрологический интернат",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:50.851669",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:51.213879",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185165007,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15037634.4862568,
+                        6164255.4501182
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b991610d-c0ff-11ee-b5c1-b5bf425cfaeb",
+                "interactionId": 1158952809,
+                "label": "",
+                "options": {
+                    "address": "г.Хабаровск, пер. Высотный, 1",
+                    "bld_area": "0",
+                    "capacity": "0",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "стационарное учреждение",
+                    "globalid": "b991610d-c0ff-11ee-b5c1-b5bf425cfaeb",
+                    "mt_status": "1",
+                    "name": "КГБУ «Хабаровский психоневрологический интернат»",
+                    "note": "1",
+                    "number": "+",
+                    "oktmo": "08600000",
+                    "person_pd": "262",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "отдельно стоящее",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:51.44024",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:52.24058",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185166292,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15048236.6672572,
+                        6163116.43509214
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "d375b7b0-d6ea-11ea-8702-f95eb2e73b9e",
+                "interactionId": 1158954093,
+                "label": "",
+                "options": {
+                    "capacity": "0",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "globalid": "d375b7b0-d6ea-11ea-8702-f95eb2e73b9e",
+                    "mt_status": "2",
+                    "reg_status": "Местное значение муниципального района",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:56.325398",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:57.103075",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        }
+    ]
+}

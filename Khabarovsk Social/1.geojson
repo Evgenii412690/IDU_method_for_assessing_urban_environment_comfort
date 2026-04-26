@@ -1,0 +1,822 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 1185154486,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15032990.4730982,
+                        6202178.01762049
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "02b4be96-5950-11ef-8bc2-214411db471e",
+                "interactionId": 1158942288,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск, Краснофлотский район",
+                    "bld_area": "0",
+                    "capacity": "70",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "2030",
+                    "function": "полустационарное учреждение",
+                    "globalid": "02b4be96-5950-11ef-8bc2-214411db471e",
+                    "mt_status": "2",
+                    "name": "Вторая очередь КГБУ \"Хабаровский центр социальной реабилитации инвалидов\"",
+                    "note": "0",
+                    "number": "2.1.6.",
+                    "oktmo": "8701000001",
+                    "person_pd": "250",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "преложение СТП",
+                    "sp_stype": "Социально-оздоровительный центр",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:15.735819",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:15.857959",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185154489,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15041728.6301114,
+                        6199920.53181804
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "02b6e179-5950-11ef-8bc2-896e7b56059b",
+                "interactionId": 1158942291,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск",
+                    "bld_area": "0",
+                    "capacity": "150",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "2025",
+                    "function": "стационарное учреждение",
+                    "globalid": "02b6e179-5950-11ef-8bc2-896e7b56059b",
+                    "mt_status": "2",
+                    "name": "Комплекс домов социального обслуживания малой вместимости",
+                    "note": "0",
+                    "number": "2.1.1.",
+                    "oktmo": "8701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "гос.программа Хабаровского края \"Развитие социальной защиты населения Хабаровского края\", утв. Пост-",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "180"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:15.743177",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:16.544427",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185156231,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15041538.2337071,
+                        6199369.52037612
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "18f46501-5975-11ef-88a7-af4f816cc152",
+                "interactionId": 1158944032,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск, п. Березовка, ул. Ванинская, 4",
+                    "bld_area": "4865",
+                    "capacity": "170",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "стационарное учреждение",
+                    "globalid": "18f46501-5975-11ef-88a7-af4f816cc152",
+                    "mt_status": "1",
+                    "name": "КГКУ «Хабаровский детский психоневрологический интернат»",
+                    "note": "построен в 1992",
+                    "number": "1",
+                    "oktmo": "8701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Психоневрологический интернат",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "140"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:21.263075",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:21.953151",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185156357,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15032083.3350205,
+                        6202298.54323317
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "192c8b44-5975-11ef-88a7-5dc625375c5e",
+                "interactionId": 1158944159,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск, ул. Кирова, 3",
+                    "bld_area": "0",
+                    "capacity": "25",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "стационарное учреждение",
+                    "globalid": "192c8b44-5975-11ef-88a7-5dc625375c5e",
+                    "mt_status": "1",
+                    "name": "Пансионат «Благо» в с. Бычиха Хабаровского района (частный)",
+                    "note": "0",
+                    "number": "68",
+                    "oktmo": "0",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Иное значение, местное значение муниципального района, необходимое для осуществления полномочий по вопросам местного значения муниципального района, предусмотренных частью 4 статьи 14, статьей 15 Федерального закона от 6 октября 2003 г. N 131-ФЗ \"Об общих принципах организации местного самоуправления в Российской Федерации\".",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:21.779505",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:23.175938",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185160452,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15033024.4166373,
+                        6202280.97033836
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "45589175-3ab1-11f0-a8fb-6d28d08a296e",
+                "interactionId": 1158948254,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск, Краснофлотский район",
+                    "bld_area": "0",
+                    "capacity": "20",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "2035",
+                    "function": "Обслуживание населения",
+                    "globalid": "45589175-3ab1-11f0-a8fb-6d28d08a296e",
+                    "mt_status": "2",
+                    "name": "Хабаровский центр социальной реабилитации инвалидов",
+                    "note": "мощность 250 человек в день, в том числе стационарное отделение на 20 мест, отделение временного проживания на 50 мест, отделение адаптивной физическо",
+                    "number": "-",
+                    "oktmo": "8701000001",
+                    "person_pd": "250",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:35.650997",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:36.443307",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185161797,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15041511.7040461,
+                        6200055.60466178
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "5117ed5f-c0ff-11ee-b5c1-af92c51ba152",
+                "interactionId": 1158949599,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск ул. Богородская",
+                    "bld_area": "0",
+                    "capacity": "150",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "2025",
+                    "function": "стационарное учреждение",
+                    "globalid": "5117ed5f-c0ff-11ee-b5c1-af92c51ba152",
+                    "mt_status": "2",
+                    "name": "Комплекс домов социального обслуживания малой вместимости",
+                    "note": "0",
+                    "number": "2.1.1",
+                    "oktmo": "8000000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "гос.программа Хабаровского края \"Развитие социальной защиты населения Хабаровского края\", утв. Пост-",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "180"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:40.214031",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:41.290555",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185164852,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15032101.1283279,
+                        6202332.72722241
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b3703cd9-3a05-11f0-8b31-dfc8e44696e4",
+                "interactionId": 1158952654,
+                "label": "",
+                "options": {
+                    "address": "ул. Кирова,3",
+                    "bld_area": "0",
+                    "capacity": "1",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "Обслуживание населения",
+                    "globalid": "b3703cd9-3a05-11f0-8b31-dfc8e44696e4",
+                    "mt_status": "1",
+                    "name": "Пансионат для пожилых людей ООО \"Благо\" (Гостиница)",
+                    "number": "-",
+                    "oktmo": "8701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Иное значение, местное значение муниципального района, необходимое для осуществления полномочий по вопросам местного значения муниципального района, предусмотренных частью 4 статьи 14, статьей 15 Федерального закона от 6 октября 2003 г. N 131-ФЗ \"Об общих принципах организации местного самоуправления в Российской Федерации\".",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:50.923018",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:51.337814",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185164853,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15032503.9623956,
+                        6202903.33534749
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b36b0cb8-3a05-11f0-8b31-8d46d01a13f3",
+                "interactionId": 1158952655,
+                "label": "",
+                "options": {
+                    "address": "ул. Ильича, 2",
+                    "bld_area": "0",
+                    "capacity": "1",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "Обслуживание населения",
+                    "globalid": "b36b0cb8-3a05-11f0-8b31-8d46d01a13f3",
+                    "mt_status": "1",
+                    "name": "АНО \"Хабаровский центр паллиативной помощи\"",
+                    "number": "-",
+                    "oktmo": "8701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Иное значение, местное значение муниципального района, необходимое для осуществления полномочий по вопросам местного значения муниципального района, предусмотренных частью 4 статьи 14, статьей 15 Федерального закона от 6 октября 2003 г. N 131-ФЗ \"Об общих принципах организации местного самоуправления в Российской Федерации\".",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:50.927632",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:52.238224",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185164854,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15031741.2546781,
+                        6200283.95210686
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b375bb1a-3a05-11f0-8b31-a97e41c95960",
+                "interactionId": 1158952656,
+                "label": "",
+                "options": {
+                    "address": "ул. Корабельная, 36",
+                    "bld_area": "0",
+                    "capacity": "1",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "Обслуживание населения",
+                    "globalid": "b375bb1a-3a05-11f0-8b31-a97e41c95960",
+                    "mt_status": "1",
+                    "name": "Реабилитационный центр \"Нейрофит\"",
+                    "number": "-",
+                    "oktmo": "8701000001",
+                    "person_pd": "1",
+                    "person_ph": "1",
+                    "reg_status": "Иное значение, местное значение муниципального района, необходимое для осуществления полномочий по вопросам местного значения муниципального района, предусмотренных частью 4 статьи 14, статьей 15 Федерального закона от 6 октября 2003 г. N 131-ФЗ \"Об общих принципах организации местного самоуправления в Российской Федерации\".",
+                    "sp_stype": "Центр дневного пребывания граждан пожилого возраста и инвалидов",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 5,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:50.928529",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:51.219214",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185164866,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15041558.3914405,
+                        6199406.54969154
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b38b17df-3a05-11f0-8b31-890e7b4897a7",
+                "interactionId": 1158952668,
+                "label": "",
+                "options": {
+                    "address": "ул. Ванинская,4",
+                    "bld_area": "0",
+                    "capacity": "262",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "Социальная защита",
+                    "globalid": "b38b17df-3a05-11f0-8b31-890e7b4897a7",
+                    "mt_status": "1",
+                    "name": "КГБУ \"Хабаровский детский психоневрологический интернат\"",
+                    "number": "-",
+                    "oktmo": "8701000001",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Психоневрологический интернат",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:50.973309",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:52.220475",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185165004,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15041571.0952208,
+                        6199416.96919588
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b990017c-c0ff-11ee-b5c1-c3cc6312c006",
+                "interactionId": 1158952806,
+                "label": "",
+                "options": {
+                    "address": "г.Хабаровск, п. Березовка, ул. Ванинская, 4",
+                    "bld_area": "0",
+                    "capacity": "0",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "стационарное учреждение",
+                    "globalid": "b990017c-c0ff-11ee-b5c1-c3cc6312c006",
+                    "mt_status": "1",
+                    "name": "КГКУ «Хабаровский детский психоневрологический интернат»",
+                    "note": "1",
+                    "number": "+",
+                    "oktmo": "08600000",
+                    "person_pd": "145",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "source": "отдельно стоящее",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:51.427503",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:52.610084",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185165118,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15032116.1564591,
+                        6202346.01209044
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "b9e526a1-c0ff-11ee-b5c1-2168406c227d",
+                "interactionId": 1158952920,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск, ул. Кирова, 3",
+                    "bld_area": "0",
+                    "capacity": "25",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "function": "стационарное учреждение",
+                    "globalid": "b9e526a1-c0ff-11ee-b5c1-2168406c227d",
+                    "mt_status": "1",
+                    "name": "Пансионат «Благо» в с. Бычиха Хабаровского района (частный)",
+                    "note": "0",
+                    "number": "+",
+                    "oktmo": "08600000",
+                    "person_pd": "0",
+                    "person_ph": "0",
+                    "reg_status": "Иное значение, местное значение муниципального района, необходимое для осуществления полномочий по вопросам местного значения муниципального района, предусмотренных частью 4 статьи 14, статьей 15 Федерального закона от 6 октября 2003 г. N 131-ФЗ \"Об общих принципах организации местного самоуправления в Российской Федерации\".",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "Дом-интернат для престарелых и инвалидов",
+                    "status": "Существующий, реконструируемый, строящийся",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 1,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:51.869594",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:52.678646",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185166308,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15045809.464325,
+                        6199656.9751357
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "d3912ef6-d6ea-11ea-8702-050864c4bcb3",
+                "interactionId": 1158954110,
+                "label": "",
+                "options": {
+                    "capacity": "0",
+                    "classid": "Стационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "0",
+                    "globalid": "d3912ef6-d6ea-11ea-8702-050864c4bcb3",
+                    "mt_status": "2",
+                    "reg_status": "Местное значение муниципального района",
+                    "sp_stype": "0",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 2,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:56.383026",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:57.097921",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        },
+        {
+            "id": 1185166525,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        15032953.8846079,
+                        6202248.66987491
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                }
+            },
+            "properties": {
+                "cadastralDistrictsCode": 27,
+                "category": 37550,
+                "categoryName": "ФГИС ТП. Объекты социального обслуживания (точка)",
+                "descr": "",
+                "externalKey": "d6cb405b-7f24-11f0-ad6d-9d7a146ed839",
+                "interactionId": 1158954327,
+                "label": "",
+                "options": {
+                    "address": "г. Хабаровск, Краснофлотский район",
+                    "bld_area": "0",
+                    "capacity": "20",
+                    "classid": "Комплексные, полустационарные и нестационарные организации социального обслуживания",
+                    "district": "Муниципальные образования Хабаровского края",
+                    "event_time": "2035",
+                    "function": "Обслуживание населения",
+                    "globalid": "d6cb405b-7f24-11f0-ad6d-9d7a146ed839",
+                    "mt_status": "2",
+                    "name": "Хабаровский центр социальной реабилитации инвалидов",
+                    "note": "мощность 250 человек в день, в том числе стационарное отделение на 20 мест, отделение временного проживания на 50 мест, отделение адаптивной физическо",
+                    "number": "-",
+                    "oktmo": "8701000001",
+                    "person_pd": "250",
+                    "person_ph": "0",
+                    "reg_status": "Региональное значение",
+                    "sp_stype": "Комплексный центр социального обслуживания населения",
+                    "ssah_stype": "0",
+                    "st_stype": "0",
+                    "status": "Планируемый к размещению",
+                    "usa_stype": "0",
+                    "wrk_count": "0"
+                },
+                "subcategory": 6,
+                "systemInfo": {
+                    "inserted": "2025-11-17T11:03:57.161416",
+                    "insertedBy": "67626EFA-5236-4BB3-B5FB-35CEEBD6BB53",
+                    "updated": "2025-11-17T11:03:58.341101",
+                    "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+                }
+            }
+        }
+    ]
+}
