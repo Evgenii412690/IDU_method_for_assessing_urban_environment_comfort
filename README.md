@@ -7,9 +7,7 @@
 3. Files, layers and notebook used to assess the transport connectivity of cities:
 
 Text of final qualifying work:
-
+https://drive.google.com/file/d/1V0TIw6joxIo6NHTXXvKbGHIXXQxZKeta/view?usp=drive_link
 Presentation:
-
-Technical task:
-
+https://drive.google.com/file/d/1qk2cLpS1zzEZ_fFomjqPC3-eKfwgFSrz/view?usp=drive_link
 Have a nice work!
